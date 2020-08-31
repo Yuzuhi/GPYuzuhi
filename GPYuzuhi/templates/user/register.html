@@ -1,0 +1,50 @@
+{% extends 'base_user.html' %}
+{% load static %}
+
+{% block ext_css %}
+    {{ block.super }}
+    <link rel="stylesheet" href="{% static 'yuzuhi/user/css/register.css' %}">
+{% endblock %}
+
+{% block ext_js %}
+    {{ block.super }}
+    <script type="text/javascript" src="{% static 'yuzuhi/user/js/register.js' %}"></script>
+{% endblock %}
+
+
+{% block content %}
+    <div class="container">
+        <form method="post" enctype="multipart/form-data" action="{% url 'yuzuhi:register' %}" onsubmit="return check_input()">
+
+            {% csrf_token %}
+
+            <div class="form-group">
+                <label for="username_input">用户名</label>
+                <input name="username" type="text" class="form-control" id="username_input" placeholder="请输入用户名">
+                <span id="username_info"></span>
+            </div>
+            <div class="form-group">
+                <label for="email_input">邮箱</label>
+                <input type="text" name="email" class="form-control" id="email_input" placeholder="请输入邮箱">
+                <span id="email_info"></span>
+            </div>
+            <div class="form-group">
+                <label for="password_input">密码</label>
+                <input type="password" name="password" class="form-control" id="password_input" placeholder="请输入密码" oninput="return password_input_confirm()">
+                <span id="password_length"></span>
+            </div>
+            <div class="form-group">
+                <label for="password_confirm_input">确认密码</label>
+                <input type="password" class="form-control" id="password_confirm_input" placeholder="请再次输入密码" oninput="return password_confirm_confirm()">
+                <span id="password_info"></span>
+            </div>
+            <div class="form-group">
+                <label for="icon_upload">头像</label>
+                <input name="icon" type="file" id="icon_upload">
+            </div>
+
+            <button type="submit" class="btn btn-success btn-block">注册</button>
+        </form>
+    </div>
+{% endblock %}
+

@@ -1,0 +1,98 @@
+{% extends 'base_main.html' %}
+{% load static %}
+
+{% block ext_css %}
+    {{ block.super }}
+    <link rel="stylesheet" href="{% static 'yuzuhi/main/css/cart.css' %}">
+{% endblock %}
+
+
+{% block ext_js %}
+    {{ block.super }}
+    <script type="text/javascript" src="{% static 'yuzuhi/main/js/cart.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+    <div id="cart">
+        <div class="full">
+            <section>
+                <ul>
+                    <li>收&nbsp;&nbsp;货&nbsp;&nbsp;人：&nbsp;{{ user.u_username}}</li>
+                    <li>电&nbsp;&nbsp;&nbsp;话：&nbsp;123456789</li>
+                    <li>地&nbsp;&nbsp;&nbsp;&nbsp;址：&nbsp;低语森林</li>
+                </ul>
+
+                <div class="bill">
+
+                    <p>闪送超市</p>
+                    <p>0元起送满30免运费22：00前可送达</p>
+                    <a href="#">凑单专区</a>
+
+                </div>
+
+                <div class="delivery">
+                    <span>收货时间</span>
+                    <span>一小时内送达</span>
+                    <a href="#">可预订&gt;</a>
+                </div>
+
+                <div class="delivery">
+                    <span>收货备注</span>
+                    <input type="text" placeholder="请输入备注信息">
+                </div>
+
+                <ul>
+                    {% for cart in carts %}
+                        <li class="menuList" cartid="{{ cart.id }}">
+                            <div class="confirm">
+                                <span>
+                                    {% if cart.c_is_select %}
+                                        <span>√</span>
+                                        {% else %}
+                                        <span></span>
+                                    {% endif %}
+                                </span>
+                            </div>
+                            <a href="#">
+                                <img src="{{ GOODS_KEY_PREFIX }}{{ cart.c_goods.productimg }} " alt="{{ cart.c_goods.productlongname }}" onerror="this.src='{% static '/img/error.png' %}'; alt='image is missing'">
+                                <p>{{ cart.c_goods.productname }}</p>
+                                <p class="presentPrice">{{ cart.c_goods.price }}</p>
+                            </a>
+
+                            <section>
+                                <button goodsid="{{ cart.c_goods_id }}" class="subShopping">-</button>
+                                <span>{{ cart.c_goods_num }}</span>
+                                <button goodsid="{{ cart.c_goods_id }}" class="addShopping">+</button>
+                            </section>
+                        </li>
+                    {% endfor %}
+
+                </ul>
+
+                <div class="payTheBill">
+                    <div class="all_select">
+                        <span>
+                            {% if is_all_select %}
+                                <span>√</span>
+                                {% else %}
+                                <span></span>
+                            {% endif %}
+                        </span>
+                    </div>
+
+                    <p>
+                        <span>全选</span>
+                        <span>共计：</span>
+                        <span id="total_price">{{ total_price }}</span>
+                        <span>
+                            <button class="delete">删除</button>
+                        </span>
+                    </p>
+
+                    <span id="make_order">下单</span>
+                </div>
+            </section>
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block ext_css %}
+    {{ block.super }}
+     <link rel="stylesheet" href="{% static 'yuzuhi/main/css/main.css' %}">
+{% endblock %}
+
+{% block header %}
+    <header>
+        <img src="{% static 'img/bonfire.png' %}" alt='#' id="bonfire">
+    </header>
+{% endblock %}
+
+{% block footer %}
+    <footer>
+        <a href="{% url 'yuzuhi:home' %}" class="home">
+            <dl>
+                <dt>
+                    <span></span>
+                </dt>
+                <dd>初火</dd>
+            </dl>
+        </a>
+     <a href="{% url 'yuzuhi:market' %}" class="market">
+            <dl>
+                <dt>
+                    <span></span>
+                </dt>
+                <dd>馀烬</dd>
+            </dl>
+        </a>
+     <a href="{% url 'yuzuhi:cart' %}" class="cart">
+            <dl>
+                <dt>
+                    <span></span>
+                </dt>
+                <dd>行囊</dd>
+            </dl>
+        </a>
+     <a href="{% url 'yuzuhi:mine' %}" class="mine_icon">
+            <dl>
+                <dt>
+                    <span></span>
+                </dt>
+                <dd>替身</dd>
+            </dl>
+        </a>
+    </footer>
+{% endblock %}

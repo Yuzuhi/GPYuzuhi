@@ -1,0 +1,93 @@
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+("Bandit's Knife +15", null, 'Initial equipment for Thieves.,Drops from Undead Assassin\xa0(2% chance -\xa0\xa0Lower Undead Burg)', 77, '4530 people bought this', 'Daggers', 701, "img/Weapons/Bandit's_Knife_+15.png", 4530, 280, '0001', 336.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Dagger +15', null, 'Starting equipment for Sorcerer.,Undead Merchant (male) sells the weapon for 300 Souls,Video Location Timestamp 1:11', 78, '2523 people bought this', 'Daggers', 701, 'img/Weapons/Dagger_+15.png', 2523, 319, '0001', 382.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Dark Silver Tracer +5', null, "Acquired from Lord's Blade Ciaran alongside the Gold Tracer, in exchange for the Soul of Artorias, or by killing her (you can't acquire the daggers twice). Ciaran can be found in the same place you encounter Knight Artorias, after you defeat him, and will ask for his Soul. Refusing will not make her hostile. Killing her causes her to drop both the tracers and her armor as loot if you have not traded the soul. (Causing her to appear may require you to reload or warp somewhere else after defeating Artorias)\xa0 It is important to note that if the player speaks to Ciaran and refuses to give her the soul, she will disappear from your game forever when next you reload the area.", 79, '549 people bought this', 'Daggers', 701, 'img/Weapons/Dark_Silver_Tracer_+5.png', 549, 417, '0001', 500.4);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Ghost Blade +5', null, 'Rare drop from Screaming Female Ghost (Banshee) (1% chance -\xa0New Londo Ruins). It is NOT dropped by the other ghosts, they drop Jagged Ghost Blades.', 80, '3070 people bought this', 'Daggers', 701, 'img/Weapons/Ghost_Blade_+5.png', 3070, 14, '0001', 16.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Parrying Dagger +15', null, 'On a corpse in upper New Londo Ruins. See video below for the exact location.,Video Location Timestamp 2:38', 81, '893 people bought this', 'Daggers', 701, 'img/Weapons/Parrying_Dagger_+15.png', 893, 213, '0001', 255.6);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+("Priscilla's Dagger +5", 'This sword, one of the rare dragon weapons, came from the tail of Priscilla, the Dragon Crossbreed in the painted world of Ariamis.', "Obtained by cutting off Crossbreed Priscilla's Tail.", 82, '2872 people bought this', 'Daggers', 701, "img/Weapons/Priscilla's_Dagger_+5.png", 2872, 493, '0001', 591.6);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+("Astora's Straight Sword +5", "Straight sword of an unknown knight, likely one of Astora's superiors.", 'Found in front of the Undead Dragon in the Valley of Drakes.,Video Location Timestamp 1:16', 83, '3680 people bought this', 'Straight Swords', 1512, "img/Weapons/Astora's_Straight_Sword_+5.png", 3680, 303, '0001', 363.6);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Balder Side Sword +15', null, "Drops from Balder Knight\xa0with the sword\xa0(1% chance - Undead Parish and Sen's Fortress)", 84, '1608 people bought this', 'Straight Swords', 1512, 'img/Weapons/Balder_Side_Sword_+15.png', 1608, 359, '0001', 430.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Barbed Straight Sword +15', null, '\u200dPossible drop from Kirk, Knight of Thorns in any of his three encounters.\u200d', 85, '581 people bought this', 'Straight Swords', 1512, 'img/Weapons/Barbed_Straight_Sword_+15.png', 581, 480, '0001', 576.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Broadsword +15', null, 'Starting equipment for Knight.,Can be bought from Andrei of Astora for 1,000 souls.', 86, '1693 people bought this', 'Straight Swords', 1512, 'img/Weapons/Broadsword_+15.png', 1693, 63, '0001', 75.6);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Broken Straight Sword +15', 'Half of the blade of this straight sword is broken off.', 'Drops from Hollows (2% chance - Undead Burg, Northern Undead Asylum, Undead Parish, Depths, Northern Undead Asylum and Painted World of Ariamis),Drops from Torch Hollows\xa0(2% chance -\xa0Northern Undead Asylum, Lower Undead Burg, Depths\xa0and Painted World of Ariamis),Drops from Sword Wielder\xa0Infested Ghoul (2% - Blighttown)', 87, '3623 people bought this', 'Straight Swords', 1512, 'img/Weapons/Broken_Straight_Sword_+15.png', 3623, 9, '0001', 10.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Crystal Straight Sword', ' is a ', "Drops from Swordsman Undead Crystal Soldiers (3% chance - The Duke's Archives),Sold by Domhnall of Zena for 4000 souls", 88, '1508 people bought this', 'Straight Swords', 1512, 'img/Weapons/Crystal_Straight_Sword.png', 1508, 290, '0001', 348.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Darksword +15', null, 'Reaching Rank 2 in the Darkwraith covenant.', 89, '474 people bought this', 'Straight Swords', 1512, 'img/Weapons/Darksword_+15.png', 474, 396, '0001', 475.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Drake Sword +5', null, 'Drop from the Hellkite Wyvern.,OR you can just cut his tail without having to fight him by following the steps in the video below.', 90, '1845 people bought this', 'Straight Swords', 1512, 'img/Weapons/Drake_Sword_+5.png', 1845, 364, '0001', 436.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Longsword +15', null, 'Starting equipment for Warrior,Bought from Andre of Astora for 1,000 souls,Drops from Undead Soldier wielding a sword (2% Chance - Undead Burg, Undead Parish,\xa0Northern Undead Asylum (Return), Firelink Shrine)', 91, '1846 people bought this', 'Straight Swords', 1512, 'img/Weapons/Longsword_+15.png', 1846, 216, '0001', 259.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Shortsword +15', null, 'Starting equipment for Hunter.,Bought from the Male Undead Merchant for 600 souls,Drops from sword-wielding Hollow Warriors.', 92, '4592 people bought this', 'Straight Swords', 1512, 'img/Weapons/Shortsword_+15.png', 4592, 236, '0001', 283.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Silver Knight Straight Sword +5', 'The silver knights of Anor Londo guard the city using this beautifully slender weapon.', 'Drops from Silver Knight\xa0(2% Chance - Anor Londo)', 93, '3791 people bought this', 'Straight Swords', 1512, 'img/Weapons/Silver_Knight_Straight_Sword_+5.png', 3791, 90, '0001', 108.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Straight Sword Hilt +15', 'The hilt of this lost sword was found discarded in the Undead Asylum.', 'Very first starting weapon, starts off in your right hand.', 94, '644 people bought this', 'Straight Swords', 1512, 'img/Weapons/Straight_Sword_Hilt_+15.png', 644, 96, '0001', 115.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Sunlight Straight Sword +15', null, 'Found after killing Solaire of Astora during any of your numerous encounters throughout Lordran.,Video Location Timestamp 13:35', 95, '3782 people bought this', 'Straight Swords', 1512, 'img/Weapons/Sunlight_Straight_Sword_+15.png', 3782, 467, '0001', 560.4);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Abyss Greatsword +5', null, 'Ascension with the Soul of Artorias and any normal +10 Greatsword, straight sword or dagger (exept\xa0Broken Sword or Straight Sword Hilt).', 96, '4895 people bought this', 'Greatswords', 1173, 'img/Weapons/Abyss_Greatsword_+5.png', 4895, 224, '0001', 268.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Bastard Sword +15', null, 'Purchased from Blacksmith Andre in the Undead Parish for 3,000 souls.', 97, '3787 people bought this', 'Greatswords', 1173, 'img/Weapons/Bastard_Sword_+15.png', 3787, 20, '0001', 24.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Black Knight Sword+5', 'Greatsword of the Black Knights who wander Lordran. Used to face chaos demons.', 'Chance to drop from either Black Knight in the Northern Undead Asylum Revisit.,Drops from\xa0The Black Knight, specifically the Sword Knight. (20% chance -\xa0Undead Burg,\xa0Undead Parish,\xa0Darkroot Basin,\xa0The Catacombs,\xa0Northern Undead Asylum,\xa0Tomb of Giants\xa0and\xa0Kiln of the First Flame),Give to\xa0Frampt\xa0to receive 50 souls.,*CD: This weapon has a hidden damage modifier when used against Chaos Demons (+20%?).,An excellent mid-level weapon with decent swing speed. At 40 Str and 18 Dex, Attack rating is a decent 500. Good for stun-locking weak armored and low poise enemies.,Very effective two hand weapon. Two handed weak attack is relatively fast and does high damage. Two handed heavy attack is devastating when timed correctly - the player swings the blade vertically upward, causing enemies with low - mid poise to be flung backwards.,Cannot be buffed.', 98, '3984 people bought this', 'Greatswords', 1173, 'img/Weapons/Black_Knight_Sword+5.png', 3984, 171, '0001', 205.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Claymore +15', 'This larger type of greatsword is normally wielded with two hands due to its weight.', 'Looted from a body on the bridge, guarded by the Hellkite Wyvern, in upper Undead Burg.,Video Location Timestamp 1:27', 99, '1700 people bought this', 'Greatswords', 1173, 'img/Weapons/Claymore_+15.png', 1700, 16, '0001', 19.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Crystal Greatsword', null, 'Sold by Domhnall of Zena for 6,000 souls.', 100, '1036 people bought this', 'Greatswords', 1173, 'img/Weapons/Crystal_Greatsword.png', 1036, 297, '0001', 356.4);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+(null, "This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.", "Can be purchased from Shiva of the East for 10,000 souls.,Rare drop from\xa0Serpent Mages (2% chance) in Sen's Fortress and in The Duke's Archives (Prison area).", 101, '174 people bought this', 'Greatswords', 1173, 'img/Weapons/null.png', 174, 176, '0001', 211.2);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Great Lord Greatsword+5', 'Greatsword born from the soul of Gwyn, Lord of Cinder.', "Upgrade cost: 5,000 Souls and Demon Titanite.,Ascension only with the Soul of Gwyn and a +10 upgraded Straight Sword.,Compatible swords: Dagger, Parrying Dagger, Bandit's Knife, Shortsword, Longsword, Broadsword, Balder Side Sword, Sunlight Straight Sword, Barbed Straight Sword, Darksword, Bastard Sword, Claymore, Man-serpent Greatsword, Flamberge, Zweihander, Greatsword, Demon Great Machete, Straight Sword Hilt", 102, '3498 people bought this', 'Greatswords', 1173, 'img/Weapons/Great_Lord_Greatsword+5.png', 3498, 65, '0001', 78.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Greatsword of Artorias +5', 'Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias.', 'Ascension with the Soul of Sif and either the Broken Straight Sword +10 or Straight Sword Hilt +10.,In order to create the "cursed" version (the variant that can damage ghosts without applying Transient Curse), you can ascend using any normal +10 upgraded straight sword. See Greatsword of Artorias (Cursed).', 103, '1989 people bought this', 'Greatswords', 1173, 'img/Weapons/Greatsword_of_Artorias_+5.png', 1989, 430, '0001', 516.0);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Greatsword of Artorias (Cursed) +5', null, "Ascension with the Soul of (Great Wolf) Sif and any of the following normal +10 weapons: Dagger, Parrying Dagger, Bandit's Knife, Shortsword, Longsword, Broadsword, Balder Side Sword, Sunlight Straight Sword, Barbed Straight Sword, Darksword, Bastard Sword, Claymore, Man-serpent Greatsword, Flamberge, Zweihander, Greatsword, Demon Great Machete.,Cannot be made from Broken Straight Sword nor from the Straight Sword Hilt .", 104, '768 people bought this', 'Greatswords', 1173, 'img/Weapons/Greatsword_of_Artorias_(Cursed)_+5.png', 768, 354, '0001', 424.8);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Man-Serpent Greatsword +15', null, "Rare drop by the Man-serpents in Sen's Fortress and The Duke's Archives.,Drops from Man Serpent\xa0(2% Chance -\xa0Sen's Fortress\xa0or The Duke's Archives)", 105, '4008 people bought this', 'Greatswords', 1173, 'img/Weapons/Man-Serpent_Greatsword_+15.png', 4008, 397, '0001', 476.4);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Moonlight Greatsword +5', null, "Acquired by cutting off Seath the Scaleless' tail.,Player must cut the middle tail off, you must hit the end of the tail for the tail to come off. The best way to do this is to make sure you are as light enough to run quickly. Run over and stand by the crystal you need to destroy in order to damage him at the start of the fight, and wait for him to shuffle over and do a breath attack. His attack will take a few seconds, then shatter the crystal which will stun him giving you plenty of time to chop or Soul Spear his tail off. The tail should fall off after about 500 damage and after patch 1.05 it gets directly transfered into your inventory, so there no longer is the possibility of losing the weapon for the playthrough, when cutting Seath's tail, while it's tip containing the weapon is inside the wall. You acquire the weapon, even without finishing off Seath.", 106, '1177 people bought this', 'Greatswords', 1173, 'img/Weapons/Moonlight_Greatsword_+5.png', 1177, 393, '0001', 471.6);
+insert into dark_souls_goods
+(productname,productlongname,location,productid,specifics,childcidname,childcid,productimg,productnum,price,categoryid,marketprice) values
+('Obsidian Greatsword+5', null, 'Obtained by cutting off the tail of Black Dragon Kalameet. This is difficult to do, as the opportunities to do this without ranged weapons are short and infrequent without the help of phantoms.', 107, '1083 people bought this', 'Greatswords', 1173, 'img/Weapons/Obsidian_Greatsword+5.png', 1083, 286, '0001', 343.2);

@@ -1,0 +1,121 @@
+{% extends 'base_main.html' %}
+{% load static %}
+{% block ext_css %}
+    {{ block.super }}
+    <link rel="stylesheet" href="{% static 'yuzuhi/main/css/market.css' %}">
+{% endblock %}
+
+{% block ext_js %}
+    {{ block.super }}
+    <script type="text/javascript" src="{% static 'yuzuhi/main/js/market.js' %}"></script>
+
+{% endblock %}
+
+
+{% block content %}
+    <div id="market">
+        {#    左边的大类型导航  #}
+        <aside>
+            <ul>
+                {% for foodtype in foodtypes %}
+                    <!--闪购分类展示-->
+                    <li id="typeid {{ foodtype.typeid }}">
+                        <!--链接地址，点击获取分类下的商品信息-->
+                        <a href="{% url 'yuzuhi:market_with_params' categoryid=foodtype.typeid childcid=0 order_rule=0 %}">{{ foodtype.typename }}</a>
+                        {% ifequal foodtype.typeid categoryid %}
+                            <span class="yellowSlide"></span>
+                        {% endifequal %}
+
+                        {#                        <span class="yellowSlide"></span>#}
+                    </li>
+                {% endfor %}
+            </ul>
+        </aside>
+
+        <section>
+            <nav>
+                <ul>
+                    <li id="all_types"><span>全部分类<span class="glyphicon glyphicon-chevron-down"></span></span></li>
+                    <li id="sort_rule"><span>综合排序<span class="glyphicon glyphicon-chevron-down"></span></span></li>
+                </ul>
+            </nav>
+
+            <menu>
+                {% csrf_token %}
+                <ul id="show_goods">
+                    {% for goods in good_list %}
+                        <li>
+                            <a href="#">
+                                <img src="{{ GOODS_KEY_PREFIX }}{{ goods.productimg }}"
+                                     alt="{{ goods.productlongname }}"  onerror="this.src='{% static '/img/error.png' %}'; alt='image is missing'">
+                                <div class="shoppingInfo">
+                                    <h6>{{ goods.productname }}</h6>
+                                    <p class="detailTag">
+                                        <span>精选</span>
+                                        <span>热销中</span>
+                                    </p>
+                                    <p class="unit">{{ goods.specifics }}</p>
+                                    <p class="price">
+                                        <span>{{ goods.price }}</span>
+                                        <s>{{ goods.marketprice }}</s>
+                                    </p>
+                                </div>
+                            </a>
+
+                            <section>
+                                <button goodsid="{{ goods.id }}" class="subShopping">－</button>
+                                <span>0</span>
+                                <button goodsid="{{ goods.id }}" class="addShopping">＋</button>
+                            </section>
+                        </li>
+                    {% endfor %}
+
+                </ul>
+                <div id="all_types_container">
+                    <div>
+                        <!--加载全部分类的数据-->
+                        {% for foodtype_childname in foodtype_childname_list %}
+
+                            {% ifequal foodtype_childname.1 childicd %}
+                                <a href="{% url 'yuzuhi:market_with_params' categoryid=categoryid childcid=foodtype_childname.1 order_rule=0 %}">
+                                    <button class="btn btn-success">{{ foodtype_childname.0 }}</button>
+                                </a>
+                            {% else %}
+                                <a href="{% url 'yuzuhi:market_with_params' categoryid=categoryid childcid=foodtype_childname.1 order_rule=0 %}">
+                                    <button class="btn btn-default">{{ foodtype_childname.0 }}</button>
+                                </a>
+                            {% endifequal %}
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <div id="sort_rule_container">
+                    <div>
+
+                        {% for order_rule in order_rule_list %}
+
+                            {% ifequal order_rule_view order_rule.1 %}
+                                <a href="{% url 'yuzuhi:market_with_params' categoryid=categoryid childcid=childcid order_rule=1 %}">
+                                    <button class="btn btn-success">{{ order_rule.0 }}</button>
+                                </a>
+                            {% else %}
+                                <a href="{% url 'yuzuhi:market_with_params' categoryid=categoryid childcid=childcid order_rule=1 %}">
+                                    <button class="btn btn-default">{{ order_rule.0 }}</button>
+                                </a>
+                            {% endifequal %}
+
+
+                        {% endfor %}
+
+
+                        <a href="#">
+                            <button class="btn btn-default">价格降序</button>
+                        </a>
+                    </div>
+                </div>
+            </menu>
+        </section>
+
+    </div>
+{% endblock %}
+

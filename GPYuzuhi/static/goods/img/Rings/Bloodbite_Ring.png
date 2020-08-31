@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="content-language" content="en-us">
+		<meta name="Description" content="Fextralife Wiki">
+	    <title>Fextralife Wiki</title>
+	    <link type="logos/x-icon" href="https://fextralife.com/wp-content/uploads/2015/07/flswords-16.png" rel="shortcut icon">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=000">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/gx-style-min.css?a=000">
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?v=000a1"></script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/basic-min.js?v=000a1"></script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color: #fff;">
+		<div id="wiki-content-block">
+			<center>
+				<h2 style="color: #ab966f;">404 ERROR</h2>
+				<p class="subheader" style="color: #ffffff;">Page not Found! Double check the URL you accessed or use the search function to find the page you need.</p>
+				<img class="lazyload" title="error-404" alt="error-404" src="https://swcdn.fextralife.com/images/spacer.gif" data-src="https://swcdn.fextralife.com/images/error-404.png" width="394" height="584">
+				<p>You can create a wiki page once you sign in.<br>If you think something is broken, report a problem.</p>
+				<div class="btn-group fullwidth">
+					<a class="btn btn-default fullwidth" style="color: #ab966f; border-color: #ab966f;" href="https://fextralife.com" target="">Return to Fextralife</a>
+				</div>
+				<div class="btn-group fullwidth">
+					<a class="btn btn-default fullwidth" style="color: #ab966f; border-color: #ab966f;" href="/" target="">Return to wiki home</a>
+				</div>
+				<div class="btn-group fullwidth">
+					<a class="btn btn-default fullwidth" style="color: #ab966f; border-color: #ab966f;" href="https://discord.gg/fextralife" target="">Ask on Discord</a>
+				</div>
+				<div class="btn-group fullwidth">
+					<a class="btn btn-default fullwidth" style="color: #ab966f; border-color: #ab966f;" href="https://fextralife.com/contact-us/" target="">Contact Us</a>
+				</div>
+			</center>
+		</div>
+		<br><br><br>
+	</body>
+</html>

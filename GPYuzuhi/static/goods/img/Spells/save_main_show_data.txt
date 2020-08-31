@@ -1,0 +1,228 @@
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Aural_Decoy.png', 'Sorcery used by playful sorcerers. Lure enemies away by creating a sound originating in the distance.', 43, 51.6, 'img/Spells/Aural_Decoy.png', 'Sorcery used by playful sorcerers. Lure enemies away by creating a sound originating in the distance.', 43, 51.6, 'img/Spells/Aural_Decoy.png', 'Sorcery used by playful sorcerers. Lure enemies away by creating a sound originating in the distance.', 43, 51.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Cast_Light.png', 'Ancient sorcery of the lost land of Oolacile. Cast a bright light upon surroundings. This light-producing sorcery is elementary but nonetheless demonstrates the achievements in mysticism of Oolacile. Such magic has not been developed even in Vinheim', 168, 201.6, 'img/Spells/Cast_Light.png', 'Ancient sorcery of the lost land of Oolacile. Cast a bright light upon surroundings. This light-producing sorcery is elementary but nonetheless demonstrates the achievements in mysticism of Oolacile. Such magic has not been developed even in Vinheim', 168, 201.6, 'img/Spells/Cast_Light.png', 'Ancient sorcery of the lost land of Oolacile. Cast a bright light upon surroundings. This light-producing sorcery is elementary but nonetheless demonstrates the achievements in mysticism of Oolacile. Such magic has not been developed even in Vinheim', 168, 201.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Chameleon.png', 'Ancient sorcery of the lost land of Oolacile. Transform into something inconspicuous.', 261, 313.2, 'img/Spells/Chameleon.png', 'Ancient sorcery of the lost land of Oolacile. Transform into something inconspicuous.', 261, 313.2, 'img/Spells/Chameleon.png', 'Ancient sorcery of the lost land of Oolacile. Transform into something inconspicuous.', 261, 313.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Crystal_Magic_Weapon.png', 'Sorcery which improves upon Magic weapon. High magic augmentation : right weapon.', 170, 204.0, 'img/Spells/Crystal_Magic_Weapon.png', 'Sorcery which improves upon Magic weapon. High magic augmentation : right weapon.', 170, 204.0, 'img/Spells/Crystal_Magic_Weapon.png', 'Sorcery which improves upon Magic weapon. High magic augmentation : right weapon.', 170, 204.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Crystal_Soul_Spear.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire piercing crystal soul spear.', 214, 256.8, 'img/Spells/Crystal_Soul_Spear.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire piercing crystal soul spear.', 214, 256.8, 'img/Spells/Crystal_Soul_Spear.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire piercing crystal soul spear.', 214, 256.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Dark_Bead.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires successive Dark Orbs.', 172, 206.4, 'img/Spells/Dark_Bead.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires successive Dark Orbs.', 172, 206.4, 'img/Spells/Dark_Bead.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires successive Dark Orbs.', 172, 206.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Dark_Fog.png', "Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Create a cloud of Dark fog. Although Dark Fog is, in theory relatively close to humanity it also happens to be a terrible poison for humans. Perhaps to reflect man's cruelty against his own.", 211, 253.2, 'img/Spells/Dark_Fog.png', "Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Create a cloud of Dark fog. Although Dark Fog is, in theory relatively close to humanity it also happens to be a terrible poison for humans. Perhaps to reflect man's cruelty against his own.", 211, 253.2, 'img/Spells/Dark_Fog.png', "Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Create a cloud of Dark fog. Although Dark Fog is, in theory relatively close to humanity it also happens to be a terrible poison for humans. Perhaps to reflect man's cruelty against his own.", 211, 253.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Dark_Orb.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires Giant Dark Orb.', 148, 177.6, 'img/Spells/Dark_Orb.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires Giant Dark Orb.', 148, 177.6, 'img/Spells/Dark_Orb.png', 'Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fires Giant Dark Orb.', 148, 177.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fall_Control.png', 'Sorcery developed by a certain surreptitious sorcerer at Vinheim Dragon School. Reduce damage and noise from fall.', 236, 283.2, 'img/Spells/Fall_Control.png', 'Sorcery developed by a certain surreptitious sorcerer at Vinheim Dragon School. Reduce damage and noise from fall.', 236, 283.2, 'img/Spells/Fall_Control.png', 'Sorcery developed by a certain surreptitious sorcerer at Vinheim Dragon School. Reduce damage and noise from fall.', 236, 283.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Heavy_Soul_Arrow.png', 'Sorcery which improves upon Heavy Soul Arrow. Fire strong heavy soul arrow.', 209, 250.8, 'img/Spells/Great_Heavy_Soul_Arrow.png', 'Sorcery which improves upon Heavy Soul Arrow. Fire strong heavy soul arrow.', 209, 250.8, 'img/Spells/Great_Heavy_Soul_Arrow.png', 'Sorcery which improves upon Heavy Soul Arrow. Fire strong heavy soul arrow.', 209, 250.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Magic_Weapon.png', 'Sorcery which improves upon Magic Weapon. High magic augmentation: right weapon.', 403, 483.6, 'img/Spells/Great_Magic_Weapon.png', 'Sorcery which improves upon Magic Weapon. High magic augmentation: right weapon.', 403, 483.6, 'img/Spells/Great_Magic_Weapon.png', 'Sorcery which improves upon Magic Weapon. High magic augmentation: right weapon.', 403, 483.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Soul_Arrow.png', 'Sorcery which improves upon Soul Arrow. Fire strong soul arrow.', 172, 206.4, 'img/Spells/Great_Soul_Arrow.png', 'Sorcery which improves upon Soul Arrow. Fire strong soul arrow.', 172, 206.4, 'img/Spells/Great_Soul_Arrow.png', 'Sorcery which improves upon Soul Arrow. Fire strong soul arrow.', 172, 206.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Heavy_Soul_Arrow.png', 'Soul sorcery emphasizing power. Fire heavy soul arrow.', 158, 189.6, 'img/Spells/Heavy_Soul_Arrow.png', 'Soul sorcery emphasizing power. Fire heavy soul arrow.', 158, 189.6, 'img/Spells/Heavy_Soul_Arrow.png', 'Soul sorcery emphasizing power. Fire heavy soul arrow.', 158, 189.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Hidden_Body.png', 'Ancient sorcery of the lost land of Oolacile. Turns body nearly invisible.', 207, 248.4, 'img/Spells/Hidden_Body.png', 'Ancient sorcery of the lost land of Oolacile. Turns body nearly invisible.', 207, 248.4, 'img/Spells/Hidden_Body.png', 'Ancient sorcery of the lost land of Oolacile. Turns body nearly invisible.', 207, 248.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Hidden_Weapon.png', 'Ancient sorcery of the lost land of Oolacile. Turns right weapon invisible.', 274, 328.8, 'img/Spells/Hidden_Weapon.png', 'Ancient sorcery of the lost land of Oolacile. Turns right weapon invisible.', 274, 328.8, 'img/Spells/Hidden_Weapon.png', 'Ancient sorcery of the lost land of Oolacile. Turns right weapon invisible.', 274, 328.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Homing_Crystal_Soulmass.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire homing crystal soulmass.', 126, 151.2, 'img/Spells/Homing_Crystal_Soulmass.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire homing crystal soulmass.', 126, 151.2, 'img/Spells/Homing_Crystal_Soulmass.png', 'Sorcery boosted by the knowledge Logan acquired at the Regal Archives. Fire homing crystal soulmass.', 126, 151.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Homing_Soulmass.png', "Sorcery developed by Big Hat Logan: Homing soulmass. Life originates in the soul; no wonder the soulmass draws toward it. This sorcery is a window into seeker Logan's methods.", 264, 316.8, 'img/Spells/Homing_Soulmass.png', "Sorcery developed by Big Hat Logan: Homing soulmass. Life originates in the soul; no wonder the soulmass draws toward it. This sorcery is a window into seeker Logan's methods.", 264, 316.8, 'img/Spells/Homing_Soulmass.png', "Sorcery developed by Big Hat Logan: Homing soulmass. Life originates in the soul; no wonder the soulmass draws toward it. This sorcery is a window into seeker Logan's methods.", 264, 316.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Hush.png', 'Sorcery developed by a certain surreptitious sorceror at Vinheim Dragon School. Masks all noises of caster.', 460, 552.0, 'img/Spells/Hush.png', 'Sorcery developed by a certain surreptitious sorceror at Vinheim Dragon School. Masks all noises of caster.', 460, 552.0, 'img/Spells/Hush.png', 'Sorcery developed by a certain surreptitious sorceror at Vinheim Dragon School. Masks all noises of caster.', 460, 552.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Magic_Shield.png', 'Sorcery for casters who wield swords. Magic augmentation: left shield.', 367, 440.4, 'img/Spells/Magic_Shield.png', 'Sorcery for casters who wield swords. Magic augmentation: left shield.', 367, 440.4, 'img/Spells/Magic_Shield.png', 'Sorcery for casters who wield swords. Magic augmentation: left shield.', 367, 440.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Magic_Weapon.png', 'Sorcery for casters who wield swords. Magic augmentation: right weapon.', 308, 369.6, 'img/Spells/Magic_Weapon.png', 'Sorcery for casters who wield swords. Magic augmentation: right weapon.', 308, 369.6, 'img/Spells/Magic_Weapon.png', 'Sorcery for casters who wield swords. Magic augmentation: right weapon.', 308, 369.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Pursuers.png', 'Sorcery of Manus, Father of the Abyss. Grant a fleeting will to the Dark of humanity, and volley the result.', 369, 442.8, 'img/Spells/Pursuers.png', 'Sorcery of Manus, Father of the Abyss. Grant a fleeting will to the Dark of humanity, and volley the result.', 369, 442.8, 'img/Spells/Pursuers.png', 'Sorcery of Manus, Father of the Abyss. Grant a fleeting will to the Dark of humanity, and volley the result.', 369, 442.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Remedy.png', 'Sorcery of the red-robed Yulva, one of the Sealers of New Londo. Reduce bleeding and poison build-up, and undo various poisonous effects.', 300, 360.0, 'img/Spells/Remedy.png', 'Sorcery of the red-robed Yulva, one of the Sealers of New Londo. Reduce bleeding and poison build-up, and undo various poisonous effects.', 300, 360.0, 'img/Spells/Remedy.png', 'Sorcery of the red-robed Yulva, one of the Sealers of New Londo. Reduce bleeding and poison build-up, and undo various poisonous effects.', 300, 360.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Repair.png', 'Ancient sorcery of the lost land of Oolacile. Repair equipped weapons and armor.', 441, 529.2, 'img/Spells/Repair.png', 'Ancient sorcery of the lost land of Oolacile. Repair equipped weapons and armor.', 441, 529.2, 'img/Spells/Repair.png', 'Ancient sorcery of the lost land of Oolacile. Repair equipped weapons and armor.', 441, 529.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Resist_Curse.png', 'Sorcery of the red-robed remedician Ingward, guardian of the seal in New Londo. Sacrifice humanity to undo curse.', 413, 495.6, 'img/Spells/Resist_Curse.png', 'Sorcery of the red-robed remedician Ingward, guardian of the seal in New Londo. Sacrifice humanity to undo curse.', 413, 495.6, 'img/Spells/Resist_Curse.png', 'Sorcery of the red-robed remedician Ingward, guardian of the seal in New Londo. Sacrifice humanity to undo curse.', 413, 495.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/null.png', null, 56, 67.2, 'img/Spells/null.png', null, 56, 67.2, 'img/Spells/null.png', null, 56, 67.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Soul_Arrow.png', 'Elementary sorcery. Fire a soul arrow.', 99, 118.8, 'img/Spells/Soul_Arrow.png', 'Elementary sorcery. Fire a soul arrow.', 99, 118.8, 'img/Spells/Soul_Arrow.png', 'Elementary sorcery. Fire a soul arrow.', 99, 118.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Soul_Spear.png', 'Sorcery developed by Big Hat Logan. Fire piercing soul spear.', 467, 560.4, 'img/Spells/Soul_Spear.png', 'Sorcery developed by Big Hat Logan. Fire piercing soul spear.', 467, 560.4, 'img/Spells/Soul_Spear.png', 'Sorcery developed by Big Hat Logan. Fire piercing soul spear.', 467, 560.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Strong_Magic_Shield.png', 'Sorcery which improves upon Magic Shield. High magic augmentation: left shield.', 424, 508.8, 'img/Spells/Strong_Magic_Shield.png', 'Sorcery which improves upon Magic Shield. High magic augmentation: left shield.', 424, 508.8, 'img/Spells/Strong_Magic_Shield.png', 'Sorcery which improves upon Magic Shield. High magic augmentation: left shield.', 424, 508.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/null.png', null, 24, 28.8, 'img/Spells/null.png', null, 24, 28.8, 'img/Spells/null.png', null, 24, 28.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/White_Dragon_Breath.png', 'Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless.', 106, 127.2, 'img/Spells/White_Dragon_Breath.png', 'Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless.', 106, 127.2, 'img/Spells/White_Dragon_Breath.png', 'Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless.', 106, 127.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Acid_Surge.png', 'Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor.', 306, 367.2, 'img/Spells/Acid_Surge.png', 'Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor.', 306, 367.2, 'img/Spells/Acid_Surge.png', 'Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor.', 306, 367.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Black_Flame.png', "A Pyromancy discovered from the Dark Abyss by a pyromancer who wandered into Oolacile. Conjure a great flame into one's palm.", 162, 194.4, 'img/Spells/Black_Flame.png', "A Pyromancy discovered from the Dark Abyss by a pyromancer who wandered into Oolacile. Conjure a great flame into one's palm.", 162, 194.4, 'img/Spells/Black_Flame.png', "A Pyromancy discovered from the Dark Abyss by a pyromancer who wandered into Oolacile. Conjure a great flame into one's palm.", 162, 194.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Chaos_Fire_Whip.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 273, 327.6, 'img/Spells/Chaos_Fire_Whip.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 273, 327.6, 'img/Spells/Chaos_Fire_Whip.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 273, 327.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Chaos_Storm.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 383, 459.6, 'img/Spells/Chaos_Storm.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 383, 459.6, 'img/Spells/Chaos_Storm.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 383, 459.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Combustion.png', 'Elementary pyromancy. Create powerful flame in hand.', 250, 300.0, 'img/Spells/Combustion.png', 'Elementary pyromancy. Create powerful flame in hand.', 250, 300.0, 'img/Spells/Combustion.png', 'Elementary pyromancy. Create powerful flame in hand.', 250, 300.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fire_Orb.png', 'Pyromancy which improves upon Fireball. Hurl fire orb.', 498, 597.6, 'img/Spells/Fire_Orb.png', 'Pyromancy which improves upon Fireball. Hurl fire orb.', 498, 597.6, 'img/Spells/Fire_Orb.png', 'Pyromancy which improves upon Fireball. Hurl fire orb.', 498, 597.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fire_Surge.png', 'Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand.', 273, 327.6, 'img/Spells/Fire_Surge.png', 'Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand.', 273, 327.6, 'img/Spells/Fire_Surge.png', 'Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand.', 273, 327.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fire_Tempest.png', 'Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.', 216, 259.2, 'img/Spells/Fire_Tempest.png', 'Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.', 216, 259.2, 'img/Spells/Fire_Tempest.png', 'Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.', 216, 259.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fire_Whip.png', 'Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip.', 219, 262.8, 'img/Spells/Fire_Whip.png', 'Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip.', 219, 262.8, 'img/Spells/Fire_Whip.png', 'Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip.', 219, 262.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Fireball.png', 'Standard pyromancy of the Great Swamp. Hurl fireball.', 197, 236.4, 'img/Spells/Fireball.png', 'Standard pyromancy of the Great Swamp. Hurl fireball.', 197, 236.4, 'img/Spells/Fireball.png', 'Standard pyromancy of the Great Swamp. Hurl fireball.', 197, 236.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Firestorm.png', 'Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity.', 426, 511.2, 'img/Spells/Firestorm.png', 'Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity.', 426, 511.2, 'img/Spells/Firestorm.png', 'Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity.', 426, 511.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Flash_Sweat.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Intense sweating reduces flame damage.', 487, 584.4, 'img/Spells/Flash_Sweat.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Intense sweating reduces flame damage.', 487, 584.4, 'img/Spells/Flash_Sweat.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Intense sweating reduces flame damage.', 487, 584.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Chaos_Fireball.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 405, 486.0, 'img/Spells/Great_Chaos_Fireball.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 405, 486.0, 'img/Spells/Great_Chaos_Fireball.png', 'Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters.', 405, 486.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Combustion.png', 'Pyromancy which improves upon Combustion. Create powerful, giant flame in hand.', 291, 349.2, 'img/Spells/Great_Combustion.png', 'Pyromancy which improves upon Combustion. Create powerful, giant flame in hand.', 291, 349.2, 'img/Spells/Great_Combustion.png', 'Pyromancy which improves upon Combustion. Create powerful, giant flame in hand.', 291, 349.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Fireball.png', 'Ultimate fireball pyromancy. Hurl a giant fireball.', 355, 426.0, 'img/Spells/Great_Fireball.png', 'Ultimate fireball pyromancy. Hurl a giant fireball.', 355, 426.0, 'img/Spells/Great_Fireball.png', 'Ultimate fireball pyromancy. Hurl a giant fireball.', 355, 426.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Iron_Flesh.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Iron Flesh boosts defense and resilience.', 115, 138.0, 'img/Spells/Iron_Flesh.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Iron Flesh boosts defense and resilience.', 115, 138.0, 'img/Spells/Iron_Flesh.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Iron Flesh boosts defense and resilience.', 115, 138.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Poison_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create poison mist.', 373, 447.6, 'img/Spells/Poison_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create poison mist.', 373, 447.6, 'img/Spells/Poison_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create poison mist.', 373, 447.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Power_Within.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Short strength/endurance boost, but lose HP.', 437, 524.4, 'img/Spells/Power_Within.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Short strength/endurance boost, but lose HP.', 437, 524.4, 'img/Spells/Power_Within.png', 'Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Short strength/endurance boost, but lose HP.', 437, 524.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Toxic_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create intense poison mist.', 356, 427.2, 'img/Spells/Toxic_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create intense poison mist.', 356, 427.2, 'img/Spells/Toxic_Mist.png', 'Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create intense poison mist.', 356, 427.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Undead_Rapport.png', 'Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies.', 360, 432.0, 'img/Spells/Undead_Rapport.png', 'Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies.', 360, 432.0, 'img/Spells/Undead_Rapport.png', 'Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies.', 360, 432.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Bountiful_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Gradual HP restoration for self and vicinity.', 149, 178.8, 'img/Spells/Bountiful_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Gradual HP restoration for self and vicinity.', 149, 178.8, 'img/Spells/Bountiful_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Gradual HP restoration for self and vicinity.', 149, 178.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Darkmoon_Blade.png', "Miracle granted to those bound by covenant to Gwyndolin, Lord Gwyn's lastborn. Boost right weapon with rays of Darkmoon.\xa0", 458, 549.6, 'img/Spells/Darkmoon_Blade.png', "Miracle granted to those bound by covenant to Gwyndolin, Lord Gwyn's lastborn. Boost right weapon with rays of Darkmoon.\xa0", 458, 549.6, 'img/Spells/Darkmoon_Blade.png', "Miracle granted to those bound by covenant to Gwyndolin, Lord Gwyn's lastborn. Boost right weapon with rays of Darkmoon.\xa0", 458, 549.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Emit_Force.png', 'Outland miracle, foreign to the Way of White. Emit Shockwave.', 183, 219.6, 'img/Spells/Emit_Force.png', 'Outland miracle, foreign to the Way of White. Emit Shockwave.', 183, 219.6, 'img/Spells/Emit_Force.png', 'Outland miracle, foreign to the Way of White. Emit Shockwave.', 183, 219.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Escape_Death.png', 'Lost miracle, foreign to the Way of White. While active, no losses incurred upon death.', 368, 441.6, 'img/Spells/Escape_Death.png', 'Lost miracle, foreign to the Way of White. While active, no losses incurred upon death.', 368, 441.6, 'img/Spells/Escape_Death.png', 'Lost miracle, foreign to the Way of White. While active, no losses incurred upon death.', 368, 441.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Force.png', 'Common miracle among cleric knights. Create shockwave.', 207, 248.4, 'img/Spells/Force.png', 'Common miracle among cleric knights. Create shockwave.', 207, 248.4, 'img/Spells/Force.png', 'Common miracle among cleric knights. Create shockwave.', 207, 248.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Gravelord_Greatsword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 457, 548.4, 'img/Spells/Gravelord_Greatsword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 457, 548.4, 'img/Spells/Gravelord_Greatsword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 457, 548.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Gravelord_Sword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 335, 402.0, 'img/Spells/Gravelord_Sword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 335, 402.0, 'img/Spells/Gravelord_Sword_Dance.png', 'Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity.', 335, 402.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Heal.png', 'Great miracle cast by advanced clerics. Restores high HP.', 44, 52.8, 'img/Spells/Great_Heal.png', 'Great miracle cast by advanced clerics. Restores high HP.', 44, 52.8, 'img/Spells/Great_Heal.png', 'Great miracle cast by advanced clerics. Restores high HP.', 44, 52.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Heal_Excerpt.png', 'Great miracle cast by advanced clerics. Restores high HP.', 342, 410.4, 'img/Spells/Great_Heal_Excerpt.png', 'Great miracle cast by advanced clerics. Restores high HP.', 342, 410.4, 'img/Spells/Great_Heal_Excerpt.png', 'Great miracle cast by advanced clerics. Restores high HP.', 342, 410.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl giant lightning spear.', 214, 256.8, 'img/Spells/Great_Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl giant lightning spear.', 214, 256.8, 'img/Spells/Great_Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl giant lightning spear.', 214, 256.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Great_Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in powerful def. magic coating.', 29, 34.8, 'img/Spells/Great_Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in powerful def. magic coating.', 29, 34.8, 'img/Spells/Great_Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in powerful def. magic coating.', 29, 34.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Heal.png', 'Elementary miracle cast by clerics. Restores HP.', 496, 595.2, 'img/Spells/Heal.png', 'Elementary miracle cast by clerics. Restores HP.', 496, 595.2, 'img/Spells/Heal.png', 'Elementary miracle cast by clerics. Restores HP.', 496, 595.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Homeward.png', 'Great miracle cast by advanced clerics. Return to the last bonfire rested at.', 456, 547.2, 'img/Spells/Homeward.png', 'Great miracle cast by advanced clerics. Return to the last bonfire rested at.', 456, 547.2, 'img/Spells/Homeward.png', 'Great miracle cast by advanced clerics. Return to the last bonfire rested at.', 456, 547.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Karmic_Justice.png', 'Miracle of the black-haired witch Velka. Temporary auto counter vs. heavy damage.', 90, 108.0, 'img/Spells/Karmic_Justice.png', 'Miracle of the black-haired witch Velka. Temporary auto counter vs. heavy damage.', 90, 108.0, 'img/Spells/Karmic_Justice.png', 'Miracle of the black-haired witch Velka. Temporary auto counter vs. heavy damage.', 90, 108.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl lightning spear.', 118, 141.6, 'img/Spells/Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl lightning spear.', 118, 141.6, 'img/Spells/Lightning_Spear.png', 'Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl lightning spear.', 118, 141.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in defensive magic coating.', 140, 168.0, 'img/Spells/Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in defensive magic coating.', 140, 168.0, 'img/Spells/Magic_Barrier.png', 'Miracle of Bishop Havel the Rock. Cover body in defensive magic coating.', 140, 168.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Replenishment.png', 'Common miracle amongst cleric knights. Gradual HP restoration.', 384, 460.8, 'img/Spells/Replenishment.png', 'Common miracle amongst cleric knights. Gradual HP restoration.', 384, 460.8, 'img/Spells/Replenishment.png', 'Common miracle amongst cleric knights. Gradual HP restoration.', 384, 460.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Seek_Guidance.png', 'Miracle of clerics on an Undead mission. Display more guidance from other worlds.', 216, 259.2, 'img/Spells/Seek_Guidance.png', 'Miracle of clerics on an Undead mission. Display more guidance from other worlds.', 216, 259.2, 'img/Spells/Seek_Guidance.png', 'Miracle of clerics on an Undead mission. Display more guidance from other worlds.', 216, 259.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/null.png', null, 277, 332.4, 'img/Spells/null.png', null, 277, 332.4, 'img/Spells/null.png', null, 277, 332.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Soothing_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Restores high HP for self and vicinity.', 230, 276.0, 'img/Spells/Soothing_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Restores high HP for self and vicinity.', 230, 276.0, 'img/Spells/Soothing_Sunlight.png', 'Special miracle granted to the maidens of Gwynevere, Princess of the Sun. Restores high HP for self and vicinity.', 230, 276.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Sunlight_Blade.png', "Miracle wielded by Lord Gwyn's firstborn. Boost right weapon with rays of Sun.", 118, 141.6, 'img/Spells/Sunlight_Blade.png', "Miracle wielded by Lord Gwyn's firstborn. Boost right weapon with rays of Sun.", 118, 141.6, 'img/Spells/Sunlight_Blade.png', "Miracle wielded by Lord Gwyn's firstborn. Boost right weapon with rays of Sun.", 118, 141.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Sunlight_Spear.png', 'Miracle born from the fading soul of Gwyn. Hurl sunlight spear.', 73, 87.6, 'img/Spells/Sunlight_Spear.png', 'Miracle born from the fading soul of Gwyn. Hurl sunlight spear.', 73, 87.6, 'img/Spells/Sunlight_Spear.png', 'Miracle born from the fading soul of Gwyn. Hurl sunlight spear.', 73, 87.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Tranquil_Walk_of_Peace.png', 'Outland miracle, foreign to the Way of White. Slows all walking within effect area.', 143, 171.6, 'img/Spells/Tranquil_Walk_of_Peace.png', 'Outland miracle, foreign to the Way of White. Slows all walking within effect area.', 143, 171.6, 'img/Spells/Tranquil_Walk_of_Peace.png', 'Outland miracle, foreign to the Way of White. Slows all walking within effect area.', 143, 171.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Vow_of_Silence.png', 'Secret rite of the black-haired witch Velka. Prevents casting of magic within effect area.', 393, 471.6, 'img/Spells/Vow_of_Silence.png', 'Secret rite of the black-haired witch Velka. Prevents casting of magic within effect area.', 393, 471.6, 'img/Spells/Vow_of_Silence.png', 'Secret rite of the black-haired witch Velka. Prevents casting of magic within effect area.', 393, 471.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/null.png', null, 188, 225.6, 'img/Spells/null.png', null, 188, 225.6, 'img/Spells/null.png', null, 188, 225.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Spells/Wrath_of_the_Gods.png', 'Primal form of Force. Create powerful shockwave.', 291, 349.2, 'img/Spells/Wrath_of_the_Gods.png', 'Primal form of Force. Create powerful shockwave.', 291, 349.2, 'img/Spells/Wrath_of_the_Gods.png', 'Primal form of Force. Create powerful shockwave.', 291, 349.2);

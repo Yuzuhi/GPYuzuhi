@@ -1,0 +1,93 @@
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+("img/Weapons/Bandit's_Knife_+15.png", null, 280, 336.0, "img/Weapons/Bandit's_Knife_+15.png", null, 280, 336.0, "img/Weapons/Bandit's_Knife_+15.png", null, 280, 336.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Dagger_+15.png', null, 319, 382.8, 'img/Weapons/Dagger_+15.png', null, 319, 382.8, 'img/Weapons/Dagger_+15.png', null, 319, 382.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Dark_Silver_Tracer_+5.png', null, 417, 500.4, 'img/Weapons/Dark_Silver_Tracer_+5.png', null, 417, 500.4, 'img/Weapons/Dark_Silver_Tracer_+5.png', null, 417, 500.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Ghost_Blade_+5.png', null, 14, 16.8, 'img/Weapons/Ghost_Blade_+5.png', null, 14, 16.8, 'img/Weapons/Ghost_Blade_+5.png', null, 14, 16.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Parrying_Dagger_+15.png', null, 213, 255.6, 'img/Weapons/Parrying_Dagger_+15.png', null, 213, 255.6, 'img/Weapons/Parrying_Dagger_+15.png', null, 213, 255.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+("img/Weapons/Priscilla's_Dagger_+5.png", 'This sword, one of the rare dragon weapons, came from the tail of Priscilla, the Dragon Crossbreed in the painted world of Ariamis.', 493, 591.6, "img/Weapons/Priscilla's_Dagger_+5.png", 'This sword, one of the rare dragon weapons, came from the tail of Priscilla, the Dragon Crossbreed in the painted world of Ariamis.', 493, 591.6, "img/Weapons/Priscilla's_Dagger_+5.png", 'This sword, one of the rare dragon weapons, came from the tail of Priscilla, the Dragon Crossbreed in the painted world of Ariamis.', 493, 591.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+("img/Weapons/Astora's_Straight_Sword_+5.png", "Straight sword of an unknown knight, likely one of Astora's superiors.", 303, 363.6, "img/Weapons/Astora's_Straight_Sword_+5.png", "Straight sword of an unknown knight, likely one of Astora's superiors.", 303, 363.6, "img/Weapons/Astora's_Straight_Sword_+5.png", "Straight sword of an unknown knight, likely one of Astora's superiors.", 303, 363.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Balder_Side_Sword_+15.png', null, 359, 430.8, 'img/Weapons/Balder_Side_Sword_+15.png', null, 359, 430.8, 'img/Weapons/Balder_Side_Sword_+15.png', null, 359, 430.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Barbed_Straight_Sword_+15.png', null, 480, 576.0, 'img/Weapons/Barbed_Straight_Sword_+15.png', null, 480, 576.0, 'img/Weapons/Barbed_Straight_Sword_+15.png', null, 480, 576.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Broadsword_+15.png', null, 63, 75.6, 'img/Weapons/Broadsword_+15.png', null, 63, 75.6, 'img/Weapons/Broadsword_+15.png', null, 63, 75.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Broken_Straight_Sword_+15.png', 'Half of the blade of this straight sword is broken off.', 9, 10.8, 'img/Weapons/Broken_Straight_Sword_+15.png', 'Half of the blade of this straight sword is broken off.', 9, 10.8, 'img/Weapons/Broken_Straight_Sword_+15.png', 'Half of the blade of this straight sword is broken off.', 9, 10.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Crystal_Straight_Sword.png', ' is a ', 290, 348.0, 'img/Weapons/Crystal_Straight_Sword.png', ' is a ', 290, 348.0, 'img/Weapons/Crystal_Straight_Sword.png', ' is a ', 290, 348.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Darksword_+15.png', null, 396, 475.2, 'img/Weapons/Darksword_+15.png', null, 396, 475.2, 'img/Weapons/Darksword_+15.png', null, 396, 475.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Drake_Sword_+5.png', null, 364, 436.8, 'img/Weapons/Drake_Sword_+5.png', null, 364, 436.8, 'img/Weapons/Drake_Sword_+5.png', null, 364, 436.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Longsword_+15.png', null, 216, 259.2, 'img/Weapons/Longsword_+15.png', null, 216, 259.2, 'img/Weapons/Longsword_+15.png', null, 216, 259.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Shortsword_+15.png', null, 236, 283.2, 'img/Weapons/Shortsword_+15.png', null, 236, 283.2, 'img/Weapons/Shortsword_+15.png', null, 236, 283.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Silver_Knight_Straight_Sword_+5.png', 'The silver knights of Anor Londo guard the city using this beautifully slender weapon.', 90, 108.0, 'img/Weapons/Silver_Knight_Straight_Sword_+5.png', 'The silver knights of Anor Londo guard the city using this beautifully slender weapon.', 90, 108.0, 'img/Weapons/Silver_Knight_Straight_Sword_+5.png', 'The silver knights of Anor Londo guard the city using this beautifully slender weapon.', 90, 108.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Straight_Sword_Hilt_+15.png', 'The hilt of this lost sword was found discarded in the Undead Asylum.', 96, 115.2, 'img/Weapons/Straight_Sword_Hilt_+15.png', 'The hilt of this lost sword was found discarded in the Undead Asylum.', 96, 115.2, 'img/Weapons/Straight_Sword_Hilt_+15.png', 'The hilt of this lost sword was found discarded in the Undead Asylum.', 96, 115.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Sunlight_Straight_Sword_+15.png', null, 467, 560.4, 'img/Weapons/Sunlight_Straight_Sword_+15.png', null, 467, 560.4, 'img/Weapons/Sunlight_Straight_Sword_+15.png', null, 467, 560.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Abyss_Greatsword_+5.png', null, 224, 268.8, 'img/Weapons/Abyss_Greatsword_+5.png', null, 224, 268.8, 'img/Weapons/Abyss_Greatsword_+5.png', null, 224, 268.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Bastard_Sword_+15.png', null, 20, 24.0, 'img/Weapons/Bastard_Sword_+15.png', null, 20, 24.0, 'img/Weapons/Bastard_Sword_+15.png', null, 20, 24.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Black_Knight_Sword+5.png', 'Greatsword of the Black Knights who wander Lordran. Used to face chaos demons.', 171, 205.2, 'img/Weapons/Black_Knight_Sword+5.png', 'Greatsword of the Black Knights who wander Lordran. Used to face chaos demons.', 171, 205.2, 'img/Weapons/Black_Knight_Sword+5.png', 'Greatsword of the Black Knights who wander Lordran. Used to face chaos demons.', 171, 205.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Claymore_+15.png', 'This larger type of greatsword is normally wielded with two hands due to its weight.', 16, 19.2, 'img/Weapons/Claymore_+15.png', 'This larger type of greatsword is normally wielded with two hands due to its weight.', 16, 19.2, 'img/Weapons/Claymore_+15.png', 'This larger type of greatsword is normally wielded with two hands due to its weight.', 16, 19.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Crystal_Greatsword.png', null, 297, 356.4, 'img/Weapons/Crystal_Greatsword.png', null, 297, 356.4, 'img/Weapons/Crystal_Greatsword.png', null, 297, 356.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/null.png', "This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.", 176, 211.2, 'img/Weapons/null.png', "This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.", 176, 211.2, 'img/Weapons/null.png', "This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress.", 176, 211.2);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Great_Lord_Greatsword+5.png', 'Greatsword born from the soul of Gwyn, Lord of Cinder.', 65, 78.0, 'img/Weapons/Great_Lord_Greatsword+5.png', 'Greatsword born from the soul of Gwyn, Lord of Cinder.', 65, 78.0, 'img/Weapons/Great_Lord_Greatsword+5.png', 'Greatsword born from the soul of Gwyn, Lord of Cinder.', 65, 78.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Greatsword_of_Artorias_+5.png', 'Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias.', 430, 516.0, 'img/Weapons/Greatsword_of_Artorias_+5.png', 'Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias.', 430, 516.0, 'img/Weapons/Greatsword_of_Artorias_+5.png', 'Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias.', 430, 516.0);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Greatsword_of_Artorias_(Cursed)_+5.png', null, 354, 424.8, 'img/Weapons/Greatsword_of_Artorias_(Cursed)_+5.png', null, 354, 424.8, 'img/Weapons/Greatsword_of_Artorias_(Cursed)_+5.png', null, 354, 424.8);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Man-Serpent_Greatsword_+15.png', null, 397, 476.4, 'img/Weapons/Man-Serpent_Greatsword_+15.png', null, 397, 476.4, 'img/Weapons/Man-Serpent_Greatsword_+15.png', null, 397, 476.4);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Moonlight_Greatsword_+5.png', null, 393, 471.6, 'img/Weapons/Moonlight_Greatsword_+5.png', null, 393, 471.6, 'img/Weapons/Moonlight_Greatsword_+5.png', null, 393, 471.6);
+insert into yuzuhi_mainshow
+(productimg1,productlongname1,price1,marketprice1,productimg2,productlongname2,price2,marketprice2,productimg3,productlongname3,price3,marketprice3) values
+('img/Weapons/Obsidian_Greatsword+5.png', null, 286, 343.2, 'img/Weapons/Obsidian_Greatsword+5.png', null, 286, 343.2, 'img/Weapons/Obsidian_Greatsword+5.png', null, 286, 343.2);

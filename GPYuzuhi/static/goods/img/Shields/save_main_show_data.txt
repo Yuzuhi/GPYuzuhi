@@ -1,0 +1,129 @@
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Balder_Shield+15.png', 'Shield of the knights of the ancient kingdom of Balder. Tweaked for improved stability.', 461, 553.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Black_Iron_Greatshield_+15.png', 'Greatshield of the might knight Tarkus', 189, 226.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Black_Knight_Shield+5.png', 'Shield of the Black Knights that wander Lordan. A flowing canal is chiseled deeply into its face.', 435, 522.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Bloodshield_+15.png', 'The bloodshield spoken of in the lost legends. The red blood is slightly enchanted, and boost various resistances.', 44, 52.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Bonewheel_Shield_+15.png', 'Giant wooden wheel encircled by spikes.', 396, 475.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Buckler_+15.png', 'Very small round metal shield. Parry attacks with large center protrusion.', 171, 205.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Caduceus_Kite_Shield+15.png', 'Medium metal shield. Decorated by an ancient blue Caduceus. A standard, widely-used shield.', 429, 514.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Caduceus_Round_Shield_+15.png', 'Round wooden shield crafted in Lordran. Decorated by an ancient blue Caduceus.', 489, 586.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Cleansing_Greatshield_+5.png', 'The steel greatshield used by Knight Artorias, who succumbed to the Abyss. Artorias, deeply scarred by the Abyss, used this to form a barrier to protect his compatriot Sif. Although this drained the shield, its magic defense remains high.', 111, 133.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Cracked_Round_Shield_+15.png', 'Wood shields are lighter than metal shields, but this one has lower physical damage reduction stability, partly due to cracking.', 68, 81.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Crest_Shield_+5.png', 'Shield of a nameless knight, likely a high-ranking knight of Astora.', 346, 415.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Crystal_Ring_Shield_+5.png', 'Weapon born from the mystical creature of the Darkroot Garden, the Moonlight Butterfly.', 157, 188.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Crystal_Shield+15.png', 'A fully crystallized straight shield. How such a weapon was created is entirely unknown.', 311, 373.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Dragon_Crest_Shield+5.png', 'Shield of a nameless knight, likely a high-ranked knight of Astora.', 43, 51.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Eagle_Shield_+15.png', 'Greatshield with an eagle design. Lightest and easiest greatshield to handle.', 369, 442.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/East-West_Shield_+15.png', 'A wooden kite shaped shield. It is decorated with the ancient symbol of a double-headed eagle, painted yellow.', 335, 402.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Effigy_Shield_+15.png', 'Frightful occult shield. Defends against divine weapons and lightning.', 457, 548.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Shields/Gargoyle's_Shield+15.png", 'Bronze shield of the gargoyle guarding the Bell of Awakening in the Undead Church.', 328, 393.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Giant_Shield_+15.png', 'Greatshield made of bronze and marcasite. Used by the giant sentinels of Anor Londo.', 11, 13.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Grass_Crest_Shield+15.png', 'Old medium metal shield of unknown origin. The grass crest is lightly imbued with magic, which slightly speeds stamina recovery.', 427, 512.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Greatshield_of_Artorias+5.png', 'Shield born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias.', 81, 97.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Shields/Havel's_Greatshield_+5.png", 'Greatshield of the legendary Havel the Rock. Cut straight from a great slab of stone.', 251, 301.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Heater_Shield+15.png', 'Small metal shield. A standard, widely-used shield.', 340, 408.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Hollow_Soldier_Shield+15.png', 'Me', 119, 142.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Iron_Round_Shield+15.png', 'Thick iron shield of Shiva of the East. Heaviest of the standard shields. Deflects enemy attacks.', 359, 430.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Knight_Shield_+15.png', 'This medium metal shield is elegantly carved and painted.', 199, 238.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Large_Leather_Shield+15.png', 'Large, leather-covered round shield. Choice shield for hunters.', 119, 142.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Leather_Shield+15.png', 'Round leather-covered shield. A standard, widely-used shield.', 475, 570.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Pierce_Shield_+15.png', 'Shield of certain knights of Catarina, used in attacks with a large protrusion in the center.', 177, 212.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Plank_Shield+15.png', 'Makeshift shield built from wood planks. Provides minimal protection, but at a cost of moderate humiliation.', 327, 392.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Red_&_White_Round_Shield_+15.png', 'The giant trees in Lordran are distant offspring of the great stone archtrees. This shield inherits their properties, and the wood greatly reduces magic damage.', 424, 508.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Sanctus+15.png', 'A legendary weapon of the Way of the White, granted to an Undead paladin long ago', 362, 434.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Silver_Knight_Shield_+5.png', 'Shield of the Silver Knights of Anor Londo. A flowing canal is carved deep into its face.', 458, 549.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Small_Leather_Shield_+15.png', 'Small, leather-covered round shield, reinforced in critical spots with metal.', 314, 376.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Spider_Shield_+15.png', 'Shield of the savage mountain bandits. Uniquely-shaped with a large black spider etched upon it.', 212, 254.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Spiked_Shield+15.png', 'Shield of the infamous Darkwraith Kirk, Knight of Thorns. Covered with spikes.', 323, 387.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Stone_Greatshield_+5.png', 'Mossy round greatshield used by the guardian of the Darkroot garden, the Stone Knight.', 210, 252.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Sunlight_Shield_+15.png', 'Shield of Solaire of Astora, Knight of Sunlight. Decorated with a holy symbol, but Solaire illustrated it himself, and it has no divine powers of its own.', 307, 368.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Target_Shield_+15.png', 'Small round metal shield. Four protrusions used to parry attacks.', 196, 235.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Tower_Kite_Shield_+15.png', 'Medium metal shield. Decorated with a tower, the symbol of protection. A standard, widely-used shield.', 136, 163.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Tower_Shield+15.png', 'Metal Greatshield. Used by the Knight Berenike, known for his heavy armour.', 290, 348.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Warrior_Round_Shield_+15.png', 'Round wooden shield crafted in Lordran. Decorated with the ancient Labrys axe.', 194, 232.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Shields/Wooden_Shield_+15.png', 'Vertically elongated wooden shield. Decorated with a white dragon.', 327, 392.4);

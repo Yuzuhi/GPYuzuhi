@@ -1,0 +1,1287 @@
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 339, 406.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 186, 223.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 259, 310.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 472, 566.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 380, 456.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 487, 584.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 310, 372.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 194, 232.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 411, 493.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 64, 76.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 368, 441.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 67, 80.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 434, 520.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 389, 466.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 212, 254.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 233, 279.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Merchant.png', None, 153, 183.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 457, 548.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 248, 297.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wood_Bolt.png', None, 229, 274.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wooden_Arrow.png', None, 21, 25.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bloodred_Moss_Clump.png', ' Medicinal red moss clump. Reduces bleeding build-up.', 165, 198.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blooming_Purple_Moss_Clump.png', ' Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.', 86, 103.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Charcoal_Pine_Resin.png', 'Black charcoal-like pine resin. Applies fire to right-hand weapon.', 346, 415.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Blessing.png', 'Holy water from Goddess Gwynevere. Fully restore HP and undo irregularities.', 86, 103.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Egg_Vermifuge.png', 'Bitter, sour chestnut. Removes parasitic egg from body.', 471, 565.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Elizabeth's_Mushroom.png", 'Large medicinal mushroom of Elizabeth, keeper of the sanctuary.', 332, 398.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Estus_Flask.png', 'The Undead treasure these dull green flasks. ', 52, 62.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Keeper_Soul.png', 'Soul of a long-lost Fire Keeper.', 122, 146.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Pine_Resin.png', 'Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon.', 73, 87.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Blossom.png', ' Green weed, shaped like a flower. Temporary boost to stamina recovery speed.', 462, 554.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Homeward_Bone.png', 'Bone fragment reduced to white ash. Return to last bonfire used for resting.', 492, 590.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP.', 179, 214.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Prism_Stone.png', ' Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eight.', 379, 454.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purging_Stone.png', None, 22, 26.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purple_Moss_Clump.png', ' Medicinal purple moss clump. Reduces poison build-up. Cures poison.', 409, 490.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repair_Powder.png', ' Lightly enchanted golden powder. Repairs weapon equipped in right hand.', 319, 382.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rotten_Pine_Resin.png', 'Rotten pine resin that has gained poison. Adds poison effect to right-hand weapon.', 151, 181.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Transient_Curse.png', ' Limb of the victim of a curse. Temporary curse allows engagement with ghosts.', 106, 127.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Twin_Humanities.png', ' Rare tiny black sprite found on corpses. Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP.', 146, 175.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Andre.png', None, 399, 478.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Rickert_of_Vinheim.png', None, 282, 338.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 15, 18.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 334, 400.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Chaos_Flame_Ember.png', 'Ember required for weapon ascension. Chaos Flame Ember is an art of the lost city of Izalith.', 315, 378.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crystal_Ember.png', "Ember required for weapon ascension. Crystal ember created by Seath the Scaleless. Handled only by the giant God's blacksmiths.", 96, 115.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dark_Ember.png', 'Ember required for weapon ascension. The church long hid the forbidden black ember, and no living blacksmith knows of it.', 501, 601.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Ember.png', 'Ember required for weapon ascension.', 79, 94.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Divine_Ember.png', 'Ember required for weapon ascension.', 312, 374.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Ember.png', 'Ember required for weapon ascension.', 194, 232.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Flame_Ember.png', 'Ember required for weapon ascension. ', 85, 102.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Magic_Ember.png', 'Ember required for weapon ascension. Large magic ember, a form of sorcery. Handled only by the Vinheim blacksmiths.', 209, 250.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Very_Large_Ember.png', 'Ember required for weapon ascension.', 103, 123.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Enchanted_Ember.png', None, 202, 242.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bottomless_Box.png', None, 230, 276.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lordvessel.png', 'Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn.', 311, 373.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rite_of_Kindling.png', 'This secret rite allows bonfires to be bolstered further with Kindling, so that even more Estus can be collected.', 167, 200.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Bed_of_Chaos_(Lord_Soul).png', 'Soul of the Bed of Chaos and the mother of all demons. This Lord Soul was found at the dawn of the Age of Fire.', 274, 328.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Four_Kings_(Bequeathed_Lord_Soul_Shard).png', 'Soul of one of the Four Kings, who fell to Dark. A fragment of a Lord Souls discovered at the dawn of the Age of Fire', 362, 434.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Gravelord_Nito_(Lord_Soul).png', 'Soul of Gravelord Nito, first of the dead. This Lord Soul was discovered at the dawn of the Age of Fire.', 107, 128.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Seath_the_Scaleless_(Bequeathed_Lord_Soul_Shard).png', 'Soul of the albino Seath the Scaleless.', 221, 265.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Weapon_Smithbox.png', 'Tool used to etch titanite into weapons for reinforcement.', 169, 202.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Armor_Smithbox.png', 'Tool used to etch titanite into armor for reinforcement.', 341, 409.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repairbox.png', 'Specialized mortar used to repair weapons and armor by grinding repair powder.', 64, 76.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Annex_Key.png', 'Key to the annex in the Painted World of Ariamis.', 448, 537.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Prison_Extra_Key.png', None, 217, 260.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Cell_Key.png', None, 452, 542.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Cell_Key.png', None, 218, 261.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Door_Key.png', None, 195, 234.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Basement_Key.png', None, 51, 61.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 233, 279.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 90, 108.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 450, 540.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 14, 16.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 500, 600.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 157, 188.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 403, 483.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 44, 52.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 437, 524.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 174, 208.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 67, 80.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 239, 286.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 302, 362.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 194, 232.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 374, 448.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 386, 463.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 238, 285.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Merchant.png', None, 470, 564.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 229, 274.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 480, 576.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wood_Bolt.png', None, 274, 328.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wooden_Arrow.png', None, 321, 385.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bloodred_Moss_Clump.png', ' Medicinal red moss clump. Reduces bleeding build-up.', 290, 348.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blooming_Purple_Moss_Clump.png', ' Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.', 401, 481.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Charcoal_Pine_Resin.png', 'Black charcoal-like pine resin. Applies fire to right-hand weapon.', 358, 429.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Blessing.png', 'Holy water from Goddess Gwynevere. Fully restore HP and undo irregularities.', 463, 555.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Egg_Vermifuge.png', 'Bitter, sour chestnut. Removes parasitic egg from body.', 51, 61.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Elizabeth's_Mushroom.png", 'Large medicinal mushroom of Elizabeth, keeper of the sanctuary.', 236, 283.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Estus_Flask.png', 'The Undead treasure these dull green flasks. ', 427, 512.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Keeper_Soul.png', 'Soul of a long-lost Fire Keeper.', 400, 480.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Pine_Resin.png', 'Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon.', 373, 447.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Blossom.png', ' Green weed, shaped like a flower. Temporary boost to stamina recovery speed.', 302, 362.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Homeward_Bone.png', 'Bone fragment reduced to white ash. Return to last bonfire used for resting.', 382, 458.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP.', 38, 45.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Prism_Stone.png', ' Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eight.', 285, 342.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purging_Stone.png', None, 253, 303.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purple_Moss_Clump.png', ' Medicinal purple moss clump. Reduces poison build-up. Cures poison.', 427, 512.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repair_Powder.png', ' Lightly enchanted golden powder. Repairs weapon equipped in right hand.', 49, 58.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rotten_Pine_Resin.png', 'Rotten pine resin that has gained poison. Adds poison effect to right-hand weapon.', 349, 418.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Transient_Curse.png', ' Limb of the victim of a curse. Temporary curse allows engagement with ghosts.', 395, 474.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Twin_Humanities.png', ' Rare tiny black sprite found on corpses. Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP.', 28, 33.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Andre.png', None, 315, 378.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Rickert_of_Vinheim.png', None, 309, 370.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 19, 22.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 501, 601.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 59, 70.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 151, 181.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 407, 488.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 326, 391.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 226, 271.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 14, 16.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 411, 493.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 119, 142.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 185, 222.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 79, 94.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 292, 350.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 137, 164.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 53, 63.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 212, 254.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Merchant.png', None, 364, 436.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 420, 504.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 59, 70.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wood_Bolt.png', None, 113, 135.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wooden_Arrow.png', None, 358, 429.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bloodred_Moss_Clump.png', ' Medicinal red moss clump. Reduces bleeding build-up.', 462, 554.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blooming_Purple_Moss_Clump.png', ' Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.', 174, 208.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Charcoal_Pine_Resin.png', 'Black charcoal-like pine resin. Applies fire to right-hand weapon.', 11, 13.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Blessing.png', 'Holy water from Goddess Gwynevere. Fully restore HP and undo irregularities.', 54, 64.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Egg_Vermifuge.png', 'Bitter, sour chestnut. Removes parasitic egg from body.', 473, 567.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Elizabeth's_Mushroom.png", 'Large medicinal mushroom of Elizabeth, keeper of the sanctuary.', 365, 438.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Estus_Flask.png', 'The Undead treasure these dull green flasks. ', 479, 574.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Keeper_Soul.png', 'Soul of a long-lost Fire Keeper.', 470, 564.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Pine_Resin.png', 'Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon.', 51, 61.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Blossom.png', ' Green weed, shaped like a flower. Temporary boost to stamina recovery speed.', 194, 232.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Homeward_Bone.png', 'Bone fragment reduced to white ash. Return to last bonfire used for resting.', 272, 326.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP.', 237, 284.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Prism_Stone.png', ' Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eight.', 353, 423.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 21, 25.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 441, 529.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 225, 270.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 238, 285.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 310, 372.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 150, 180.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 164, 196.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 499, 598.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 184, 220.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 234, 280.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 358, 429.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 461, 553.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 387, 464.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 124, 148.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 264, 316.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 154, 184.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 333, 399.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 137, 164.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 141, 169.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 197, 236.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 249, 298.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 155, 186.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 249, 298.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 400, 480.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 375, 450.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 37, 44.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 321, 385.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 185, 222.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 128, 153.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 422, 506.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 301, 361.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 422, 506.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Merchant.png', None, 165, 198.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 350, 420.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 450, 540.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wood_Bolt.png', None, 135, 162.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wooden_Arrow.png', None, 254, 304.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bloodred_Moss_Clump.png', ' Medicinal red moss clump. Reduces bleeding build-up.', 501, 601.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blooming_Purple_Moss_Clump.png', ' Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.', 228, 273.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Charcoal_Pine_Resin.png', 'Black charcoal-like pine resin. Applies fire to right-hand weapon.', 312, 374.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Blessing.png', 'Holy water from Goddess Gwynevere. Fully restore HP and undo irregularities.', 94, 112.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Egg_Vermifuge.png', 'Bitter, sour chestnut. Removes parasitic egg from body.', 171, 205.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Elizabeth's_Mushroom.png", 'Large medicinal mushroom of Elizabeth, keeper of the sanctuary.', 353, 423.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Estus_Flask.png', 'The Undead treasure these dull green flasks. ', 271, 325.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Keeper_Soul.png', 'Soul of a long-lost Fire Keeper.', 75, 90.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Pine_Resin.png', 'Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon.', 131, 157.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Blossom.png', ' Green weed, shaped like a flower. Temporary boost to stamina recovery speed.', 380, 456.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Homeward_Bone.png', 'Bone fragment reduced to white ash. Return to last bonfire used for resting.', 301, 361.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP.', 401, 481.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Prism_Stone.png', ' Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eight.', 43, 51.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purging_Stone.png', None, 212, 254.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purple_Moss_Clump.png', ' Medicinal purple moss clump. Reduces poison build-up. Cures poison.', 338, 405.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repair_Powder.png', ' Lightly enchanted golden powder. Repairs weapon equipped in right hand.', 271, 325.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rotten_Pine_Resin.png', 'Rotten pine resin that has gained poison. Adds poison effect to right-hand weapon.', 73, 87.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Transient_Curse.png', ' Limb of the victim of a curse. Temporary curse allows engagement with ghosts.', 195, 234.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Twin_Humanities.png', ' Rare tiny black sprite found on corpses. Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP.', 321, 385.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Andre.png', None, 405, 486.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Rickert_of_Vinheim.png', None, 38, 45.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 25, 30.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 207, 248.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Chaos_Flame_Ember.png', 'Ember required for weapon ascension. Chaos Flame Ember is an art of the lost city of Izalith.', 198, 237.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crystal_Ember.png', "Ember required for weapon ascension. Crystal ember created by Seath the Scaleless. Handled only by the giant God's blacksmiths.", 378, 453.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dark_Ember.png', 'Ember required for weapon ascension. The church long hid the forbidden black ember, and no living blacksmith knows of it.', 220, 264.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Ember.png', 'Ember required for weapon ascension.', 219, 262.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Divine_Ember.png', 'Ember required for weapon ascension.', 421, 505.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Ember.png', 'Ember required for weapon ascension.', 246, 295.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Flame_Ember.png', 'Ember required for weapon ascension. ', 305, 366.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Magic_Ember.png', 'Ember required for weapon ascension. Large magic ember, a form of sorcery. Handled only by the Vinheim blacksmiths.', 390, 468.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Very_Large_Ember.png', 'Ember required for weapon ascension.', 265, 318.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Enchanted_Ember.png', None, 453, 543.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bottomless_Box.png', None, 153, 183.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lordvessel.png', 'Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn.', 280, 336.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rite_of_Kindling.png', 'This secret rite allows bonfires to be bolstered further with Kindling, so that even more Estus can be collected.', 234, 280.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Bed_of_Chaos_(Lord_Soul).png', 'Soul of the Bed of Chaos and the mother of all demons. This Lord Soul was found at the dawn of the Age of Fire.', 258, 309.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Four_Kings_(Bequeathed_Lord_Soul_Shard).png', 'Soul of one of the Four Kings, who fell to Dark. A fragment of a Lord Souls discovered at the dawn of the Age of Fire', 388, 465.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Gravelord_Nito_(Lord_Soul).png', 'Soul of Gravelord Nito, first of the dead. This Lord Soul was discovered at the dawn of the Age of Fire.', 403, 483.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Seath_the_Scaleless_(Bequeathed_Lord_Soul_Shard).png', 'Soul of the albino Seath the Scaleless.', 251, 301.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Weapon_Smithbox.png', 'Tool used to etch titanite into weapons for reinforcement.', 285, 342.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Armor_Smithbox.png', 'Tool used to etch titanite into armor for reinforcement.', 38, 45.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repairbox.png', 'Specialized mortar used to repair weapons and armor by grinding repair powder.', 37, 44.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Annex_Key.png', 'Key to the annex in the Painted World of Ariamis.', 333, 399.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Prison_Extra_Key.png', None, 450, 540.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Cell_Key.png', None, 190, 228.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Cell_Key.png', None, 214, 256.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Door_Key.png', None, 459, 550.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Basement_Key.png', None, 108, 129.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Big_Pilgrim's_Key.png", 'Key to the inner door of the Undead Asylum main hall. Big key belonging to a chosen Undead pilgrim.', 406, 487.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blighttown_Key.png', 'Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon.', 195, 234.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Broken_Pendant.png', 'This item is ', 270, 324.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Cage_Key.png', None, 161, 193.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crest_Key.png', 'The grooves of the crest are enchanted, the door sealed with a powerful spell', 429, 514.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crest_of_Artorias.png', None, 93, 111.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dungeon_Cell_Key.png', None, 35, 42.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_Depths.png', 'Key opening the door from the lower Undead Burg to the Depths.', 247, 296.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_New_Londo_Ruins.png', None, 101, 121.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_the_Seal.png', 'Key to the floodgates of New Londs, which seal away the Four Kings who fell to Dark.', 131, 157.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Master_Key.png', None, 386, 463.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Mystery_Key.png', None, 328, 393.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Peculiar_Doll.png', 'A strange doll in strange dress.', 497, 596.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Residence_Key.png', 'Key to a residence in the Undead Burg. Simple, sturdy design of the locks in the Burg keep out unwanted visitors.', 435, 522.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Sewer_Chamber_Key.png', None, 328, 393.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Asylum_F2_East_Key.png', 'Key to the iron bars on the east side of the second floor of the North Undead Asylum.', 294, 352.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Undead_Asylum_F2_West_Key.png', 'Key to the iron bars on the west side of the second floor of the Northern Undead Asylum.', 367, 440.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Watchtower_Basement_Key.png', 'Key to the basement of the watchtower in the Undead Burg.', 230, 276.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Black_Separation_Crystal.png', 'This black crystal, long a symbol of farewell, is granted to banished Undead.', 351, 421.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Eye_Orb.png', None, 150, 180.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Book_of_the_Guilty.png', 'The goddess of Sin, Velka, oversees this list of the guilty, who have disrespected the Gods or their covenants, and shall one day face the wrath of the Blades of the Darkmoon', 109, 130.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Cracked_Red_Eye_Orb.png', 'Invade another world. (Hollows cannot use the item)', 361, 433.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragon_Eye.png', None, 120, 144.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dried_Finger.png', 'Dried finger with multiple knuckles.', 242, 290.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Eye_Of_Death.png', 'Online play item. Lure phantoms from other worlds. (Only Covenanter can use this item while Hollows cannot)', 107, 128.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Online play item. Write/view/rate message.', 44, 52.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/\xa0_Purple_Coward's_Crystal.png", ' Online play item.', 254, 304.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Eye_Orb.png', None, 259, 310.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Sign_Soapstone.png', None, 112, 134.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Servant_Roster.png', ' Online play item. Check servants of the Daughters of Chaos.', 25, 30.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Souvenir_of_Reprisal.png', 'Blood-drained, shrunken ear. Souvenir taken from subduing the guilty.', 293, 351.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sunlight_Medal.png', 'This faintly warm medal, engraved with the symbol of the Sun, is the ultimate honour, awarded to show <those> who summon the Warrior of Sunlight and complete a goal.', 482, 578.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_White_Sign_Soapstone.png', 'Online play item. Leave summon sign.', 28, 33.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Indictment.png', None, 81, 97.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Titanite_Chunk.png', 'Titanite chunk for weapon reinforcement. Blue titanite has powerful magic energy.', 102, 122.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Titanite_Slab.png', None, 198, 237.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Demon_Titanite.png', 'Special titanite stolen from a faceless stone beast known as a Titanite Demon.', 201, 241.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crestfallen_Merchant.png', None, 467, 560.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragonslayer_Arrow.png', None, 118, 141.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Feather_Arrow.png', None, 218, 261.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Arrow.png', None, 68, 81.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 170, 204.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Gough's_Great_Arrow.png", None, 23, 27.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Hawkeye_Gough.png', None, 484, 580.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Heavy_Bolt.png', None, 316, 379.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Arrow.png', None, 203, 243.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lightning_Bolt.png', None, 59, 70.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Marvelous_Chester.png', '(First meeting)', 27, 32.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Moonlight_Arrow.png', None, 54, 64.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Arrow.png', None, 335, 402.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sniper_Bolt.png', None, 179, 214.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Arrow.png', None, 215, 258.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Standard_Bolt.png', None, 404, 484.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Merchant.png', None, 322, 386.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 401, 481.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 370, 444.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wood_Bolt.png', None, 491, 589.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Wooden_Arrow.png', None, 109, 130.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bloodred_Moss_Clump.png', ' Medicinal red moss clump. Reduces bleeding build-up.', 42, 50.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blooming_Purple_Moss_Clump.png', ' Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.', 165, 198.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Charcoal_Pine_Resin.png', 'Black charcoal-like pine resin. Applies fire to right-hand weapon.', 484, 580.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Blessing.png', 'Holy water from Goddess Gwynevere. Fully restore HP and undo irregularities.', 120, 144.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Egg_Vermifuge.png', 'Bitter, sour chestnut. Removes parasitic egg from body.', 52, 62.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Elizabeth's_Mushroom.png", 'Large medicinal mushroom of Elizabeth, keeper of the sanctuary.', 485, 582.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Estus_Flask.png', 'The Undead treasure these dull green flasks. ', 53, 63.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Fire_Keeper_Soul.png', 'Soul of a long-lost Fire Keeper.', 143, 171.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Pine_Resin.png', 'Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon.', 421, 505.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Blossom.png', ' Green weed, shaped like a flower. Temporary boost to stamina recovery speed.', 307, 368.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Homeward_Bone.png', 'Bone fragment reduced to white ash. Return to last bonfire used for resting.', 132, 158.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP.', 491, 589.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Prism_Stone.png', ' Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eight.', 206, 247.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purging_Stone.png', None, 500, 600.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Purple_Moss_Clump.png', ' Medicinal purple moss clump. Reduces poison build-up. Cures poison.', 76, 91.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repair_Powder.png', ' Lightly enchanted golden powder. Repairs weapon equipped in right hand.', 237, 284.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rotten_Pine_Resin.png', 'Rotten pine resin that has gained poison. Adds poison effect to right-hand weapon.', 425, 510.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Transient_Curse.png', ' Limb of the victim of a curse. Temporary curse allows engagement with ghosts.', 495, 594.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Twin_Humanities.png', ' Rare tiny black sprite found on corpses. Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP.', 122, 146.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Andre.png', None, 490, 588.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blacksmith_Rickert_of_Vinheim.png', None, 265, 318.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', None, 223, 267.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Giant_Blacksmith.png', None, 229, 274.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Chaos_Flame_Ember.png', 'Ember required for weapon ascension. Chaos Flame Ember is an art of the lost city of Izalith.', 294, 352.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crystal_Ember.png', "Ember required for weapon ascension. Crystal ember created by Seath the Scaleless. Handled only by the giant God's blacksmiths.", 41, 49.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dark_Ember.png', 'Ember required for weapon ascension. The church long hid the forbidden black ember, and no living blacksmith knows of it.', 422, 506.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Divine_Ember.png', 'Ember required for weapon ascension.', 183, 219.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Divine_Ember.png', 'Ember required for weapon ascension.', 422, 506.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Ember.png', 'Ember required for weapon ascension.', 307, 368.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Flame_Ember.png', 'Ember required for weapon ascension. ', 157, 188.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Magic_Ember.png', 'Ember required for weapon ascension. Large magic ember, a form of sorcery. Handled only by the Vinheim blacksmiths.', 150, 180.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Very_Large_Ember.png', 'Ember required for weapon ascension.', 33, 39.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Enchanted_Ember.png', None, 160, 192.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Bottomless_Box.png', None, 167, 200.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Lordvessel.png', 'Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn.', 33, 39.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rite_of_Kindling.png', 'This secret rite allows bonfires to be bolstered further with Kindling, so that even more Estus can be collected.', 10, 12.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Bed_of_Chaos_(Lord_Soul).png', 'Soul of the Bed of Chaos and the mother of all demons. This Lord Soul was found at the dawn of the Age of Fire.', 226, 271.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Four_Kings_(Bequeathed_Lord_Soul_Shard).png', 'Soul of one of the Four Kings, who fell to Dark. A fragment of a Lord Souls discovered at the dawn of the Age of Fire', 427, 512.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Gravelord_Nito_(Lord_Soul).png', 'Soul of Gravelord Nito, first of the dead. This Lord Soul was discovered at the dawn of the Age of Fire.', 318, 381.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Seath_the_Scaleless_(Bequeathed_Lord_Soul_Shard).png', 'Soul of the albino Seath the Scaleless.', 274, 328.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Weapon_Smithbox.png', 'Tool used to etch titanite into weapons for reinforcement.', 30, 36.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Armor_Smithbox.png', 'Tool used to etch titanite into armor for reinforcement.', 390, 468.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Repairbox.png', 'Specialized mortar used to repair weapons and armor by grinding repair powder.', 99, 118.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Annex_Key.png', 'Key to the annex in the Painted World of Ariamis.', 497, 596.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Prison_Extra_Key.png', None, 38, 45.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Cell_Key.png', None, 476, 571.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Cell_Key.png', None, 191, 229.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Archive_Tower_Giant_Door_Key.png', None, 443, 531.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Basement_Key.png', None, 205, 246.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Big_Pilgrim's_Key.png", 'Key to the inner door of the Undead Asylum main hall. Big key belonging to a chosen Undead pilgrim.', 206, 247.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blighttown_Key.png', 'Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon.', 225, 270.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Broken_Pendant.png', 'This item is ', 157, 188.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Cage_Key.png', None, 49, 58.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crest_Key.png', 'The grooves of the crest are enchanted, the door sealed with a powerful spell', 163, 195.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Crest_of_Artorias.png', None, 451, 541.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dungeon_Cell_Key.png', None, 346, 415.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_Depths.png', 'Key opening the door from the lower Undead Burg to the Depths.', 49, 58.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_New_Londo_Ruins.png', None, 307, 368.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Key_to_the_Seal.png', 'Key to the floodgates of New Londs, which seal away the Four Kings who fell to Dark.', 91, 109.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Master_Key.png', None, 108, 129.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Mystery_Key.png', None, 86, 103.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Peculiar_Doll.png', 'A strange doll in strange dress.', 279, 334.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Residence_Key.png', 'Key to a residence in the Undead Burg. Simple, sturdy design of the locks in the Burg keep out unwanted visitors.', 175, 210.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Sewer_Chamber_Key.png', None, 61, 73.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Undead_Asylum_F2_East_Key.png', 'Key to the iron bars on the east side of the second floor of the North Undead Asylum.', 488, 585.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Undead_Asylum_F2_West_Key.png', 'Key to the iron bars on the west side of the second floor of the Northern Undead Asylum.', 39, 46.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Watchtower_Basement_Key.png', 'Key to the basement of the watchtower in the Undead Burg.', 216, 259.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Black_Separation_Crystal.png', 'This black crystal, long a symbol of farewell, is granted to banished Undead.', 200, 240.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Eye_Orb.png', None, 190, 228.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Book_of_the_Guilty.png', 'The goddess of Sin, Velka, oversees this list of the guilty, who have disrespected the Gods or their covenants, and shall one day face the wrath of the Blades of the Darkmoon', 237, 284.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Cracked_Red_Eye_Orb.png', 'Invade another world. (Hollows cannot use the item)', 91, 109.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragon_Eye.png', None, 325, 390.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dried_Finger.png', 'Dried finger with multiple knuckles.', 96, 115.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Eye_Of_Death.png', 'Online play item. Lure phantoms from other worlds. (Only Covenanter can use this item while Hollows cannot)', 490, 588.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Online play item. Write/view/rate message.', 126, 151.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/\xa0_Purple_Coward's_Crystal.png", ' Online play item.', 46, 55.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Eye_Orb.png', None, 130, 156.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Sign_Soapstone.png', None, 161, 193.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Servant_Roster.png', ' Online play item. Check servants of the Daughters of Chaos.', 225, 270.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Souvenir_of_Reprisal.png', 'Blood-drained, shrunken ear. Souvenir taken from subduing the guilty.', 170, 204.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Sunlight_Medal.png', 'This faintly warm medal, engraved with the symbol of the Sun, is the ultimate honour, awarded to show <those> who summon the Warrior of Sunlight and complete a goal.', 39, 46.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_White_Sign_Soapstone.png', 'Online play item. Leave summon sign.', 243, 291.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Indictment.png', None, 64, 76.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Titanite_Chunk.png', 'Titanite chunk for weapon reinforcement. Blue titanite has powerful magic energy.', 279, 334.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Blue_Titanite_Slab.png', None, 430, 516.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Demon_Titanite.png', 'Special titanite stolen from a faceless stone beast known as a Titanite Demon.', 79, 94.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragon_Scale.png', 'Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon.', 119, 142.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Green_Titanite_Shard.png', 'Titanite shard for weapon reinforcement.', 482, 578.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Titanite_Shard.png', None, 294, 352.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Titanite_Chunk.png', None, 199, 238.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Red_Titanite_Slab.png', 'Red titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods.', 425, 510.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Titanite_Chunk.png', None, 357, 428.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Titanite_Shard.png', ' Titanite shard for weapon reinforcement. Most common titanite material. Reinforces standard weapons to +5.', 146, 175.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods.', 443, 531.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Twinkling_Titanite.png', 'This weapon-reinforcing titanite is imbued with a particularly powerful energy.', 101, 121.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/White_Titanite_Chunk.png', 'Titanite chunk for weapon reinforcement.', 304, 364.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/White_Titanite_Slab.png', 'White titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods.', 275, 330.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Alluring_Skull.png', None, 169, 202.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Black_Firebomb.png', 'Black bisque urn filled with black powder. Explodes, inflicting fire damage.', 53, 63.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dung_Pie.png', 'Atrocious fecal waste material. Throw at enemy to build up toxins, but also builds up your toxicity.', 411, 493.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Firebomb.png', 'Bisque urn filled with black powder. Explodes, inflicting fire damage.', 342, 410.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+("img/Items/Lloyd's_Talisman.png", "Talisman utilized by Allfather Lloyd's cleric knights to hunt down the Undead. Blocks Estus recovery within a limited area.", 114, 136.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Poison_Throwing_Knife.png', 'Throwing Knife. Coated with poison.', 286, 343.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Throwing_Knife.png', None, 409, 490.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Core_of_an_Iron_Golem.png', "Soul serving as the core of the Iron Golem, guardian of Sen's Fortress, and slayer of countless heroes seeking Anor Londo.", 70, 84.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Guardian_Soul.png', 'Soul of the white winged lion sanctuary watchkeeper, who dreaded the spread of the Abyss.', 305, 366.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Soul_of_a_Brave_Warrior.png', None, 268, 321.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Soul_of_a_Lost_Undead.png', None, 185, 222.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Soul_of_a_Nameless_Soldier.png', None, 55, 66.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Large_Soul_of_a_Proud_Knight.png', None, 448, 537.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_(Great_Wolf)_Sif.png', 'Soul of Sif the Great Grey Wolf, who guards the grave of Artorias the Abysswalker.', 157, 188.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Artorias.png', "Soul of Lord Gwyn's Knight Artorias, who was consumed by the Abyss.", 82, 98.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Gwyn,_Lord_of_Cinder.png', 'Soul of Gywn, Lord of Sunlight and Cinder, who linked the First Flame.', 298, 357.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Gwyndolin.png', None, 79, 94.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/\xa0_Soul_of_Manus.png', 'Soul of Manus, Father of the Abyss. This extraordinary soul is a viscous, lukewarm lump of gentle humanity.', 472, 566.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Ornstein.png', 'Soul of Ornstein, Dragonslayer Knight who guards the cathedral in the forsaken city of Anor Londo.', 225, 270.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Priscilla.png', 'Soul of Priscilla the Crossbreed, trapped inside the painted world of Ariamis.', 49, 58.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Smough.png', 'Soul of Smough the Executioner, who guards the cathedral in the forsaken city of Anor Londo.', 45, 54.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Brave_Warrior.png', None, 220, 264.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Great_Hero.png', 'Great soul of a hero of legend who has long ago gone Hollow. Use to acquire an incredible amount of souls.', 73, 87.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Hero.png', 'Soul of a hero of legend who has long ago gone Hollow. Use to acquire a large amount of souls.', 321, 385.2);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Lost_Undead.png', None, 213, 255.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Nameless_Soldier.png', None, 383, 459.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_a_Proud_Knight.png', None, 380, 456.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_the_Moonlight_Butterfly.png', 'Soul of the mystical Moonlight Butterfly, which flitters in the Darkroot Garden.', 453, 543.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Soul_of_Quelaag.png', 'Soul of Quelaag, once daughter of the Witch of Izalith, but now a chaos demon. ', 452, 542.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Binoculars.png', 'Binoculars made of Brass. Use to peer at distant scenery.', 40, 48.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Black_Eye_Orb.png', "Mystical orb found on a Keeper's corpse.", 48, 57.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Darksign.png', None, 64, 76.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragon_Head_Stone.png', 'Stone imbued with the power of dragons. Rite of apostles of the ancient dragons. Gain head of dragon. Emit dragon breath.', 447, 536.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Dragon_Torso_Stone.png', 'Stone imbued with the power of the dragons. Rite of apostles of the ancient dragons. Gain torso of dragon. Roar like a dragon.', 412, 494.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Silver_Pendant.png', None, 137, 164.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/None.png', 'Skull Lantern of the Catacombs necromancer. Drops from his long beard locks.', 282, 338.4);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Copper_Coin.png', 'Coin made of copper. Its face shows an image of Old Man McLoyf, god of medicine and drink.', 333, 399.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Gold_Coin.png', 'Coin made of gold, with Allfather Lloyd and his white halo shown on its face.', 195, 234.0);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Pendant.png', None, 259, 310.8);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Rubbish.png', 'Rubbish with no value.', 268, 321.6);
+insert into yuzuhi_mainshow
+('productimg', 'productlongname', 'price', 'marketprice') values
+('img/Items/Silver_Coin.png', 'Coin made of silver, with the portrait of the legendary Knight King Rendal on its face.', 477, 572.4);

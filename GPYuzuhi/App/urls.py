@@ -1,0 +1,34 @@
+
+from django.conf.urls import url
+
+from App import views
+
+urlpatterns = [
+    url(r'^home/', views.home, name='home'),
+    url(r'^market/', views.market, name='market'),
+    url(r'^marketwithparams/(?P<categoryid>\d+)/(?P<childcid>\d+)/(?P<order_rule>\d+)/', views.market_with_params,
+        name='market_with_params'),
+    url(r'^cart/', views.cart, name='cart'),
+    url(r'^mine/', views.mine, name='mine'),
+
+    url(r'^register/', views.register, name='register'),
+    url(r'^login/', views.login, name='login'),
+    url(r'^checkuser/', views.check_user, name='checkuser'),
+    url(r'^logout/', views.logout, name='logout'),
+    url(r'^sendmail/', views.send_email_activate, name='send_mail'),
+    url(r'^activate/', views.activate, name='activate'),
+    url(r'^addtocart/', views.add_to_cart, name='add_to_cart'),
+    url(r'^changecartstate/', views.change_cart_state, name='change_cart_state'),
+    url(r'^subtocart/', views.sub_to_cart, name='sub_to_cart'),
+    url(r'^allselect/', views.all_select, name='all_select'),
+    url(r'^delete/', views.delete, name='delete'),
+    url(r'^makeorder/', views.make_order, name='make_order'),
+    url(r'^orderdetail/', views.order_detail, name='order_detail'),
+    url(r'^orderlistnotpay/', views.order_list_not_pay, name='order_list_not_pay'),
+    url(r'^payed/', views.payed, name='payed'),
+    url(r'^alipay/', views.alipay, name='alipay'),
+    url(r'^checkemail/', views.check_email, name='check_email', ),
+    url(r'^changeicon/', views.change_icon, name='change_icon', ),
+]
+
+
